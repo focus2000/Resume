@@ -3,7 +3,8 @@
 body{
   background-image: linear-gradient(to right bottom,#00F260,#0575E6);
   background-attachment:fixed;
-  color:#354548;
+  color:white;
+  /* color:#354548; */
   font-family:sans-serif
   
 }
@@ -28,7 +29,7 @@ a:hover{
 
 
 .app_main-content{
-  background-color:white;
+  background-color:rgb(58, 11, 102);
   border-radius:20px;
   padding:25px 15px;
   box-shadow:0 0 10px black
@@ -42,7 +43,7 @@ a:hover{
 
 /* Sidebar */
 .sidebar{
-  background-color:white;
+  background-color:rgb(58, 11, 102);;
   height:100%;
   border-radius:20px;
   padding:25px 15px;
@@ -135,7 +136,7 @@ border-radius:30px;
 .navbar_item{
   margin-right:20px;
   text-decoration:none;
-  color:#354358;
+  color:white;
   font-size:1.2rem;
   cursor:pointer
 }
